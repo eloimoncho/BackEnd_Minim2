@@ -1,0 +1,1 @@
+Aquest és el BackEnd del minim 2
